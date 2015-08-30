@@ -1,0 +1,25 @@
+{
+  "name": "algebra.structures.max",
+  "version": "0.1.0",
+  "description": "A maximizing structure conforming to the Monoid specification.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reaganthomas/algebra.structures.max"
+  },
+  "keywords": [
+    "monoid",
+    "max",
+    "algebra",
+    "functional"
+  ],
+  "author": "Reagan Thomas <reagan@reaganthomas.com> (http://reaganthomas.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reaganthomas/algebra.structures.max/issues"
+  },
+  "homepage": "https://github.com/reaganthomas/algebra.structures.max"
+}
