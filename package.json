@@ -1,6 +1,6 @@
 {
   "name": "algebra.structures.max",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A maximizing structure conforming to the Monoid specification.",
   "main": "lib/index.js",
   "scripts": {
@@ -26,6 +26,7 @@
     "algebra.laws": "^0.1.0",
     "coveralls": "^2.11.4",
     "gulp": "^3.9.0",
+    "gulp-bump": "^0.3.1",
     "gulp-mocha": "^2.1.3",
     "istanbul": "^0.3.19",
     "mocha": "^2.3.1",
